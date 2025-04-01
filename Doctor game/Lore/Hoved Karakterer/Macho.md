@@ -12,3 +12,5 @@ Har en dødelig sygdom, som han skal tjekkes for når han møder [[Doc]]
 Når [[Historien starter]] møder [[Doc]] ham, og reder hans liv på en eller anden måde, dette gør at muskelbundtet vælger at hjælpe doktoren med hans plan om at rejse op til toppen af medicin industrien igen.
 
 Muligvis sygt familie medlem som giver ekstra motivation til at hjælpe doktoren, da normal medicin ikke har kunnet hjælpe, men doktoren laver meget eksperimentel medicin.
+
+XXXXXXXXXXXXXXXXXXXXXX
