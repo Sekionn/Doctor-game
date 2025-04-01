@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "4348129f9e20bec0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f95bc3fe4467053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bd25320ab9846eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historien/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f458f88fb65e72b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historien/Outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d4e6ed044998d935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Historien/Macho introduktion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macho introduktion"
+            }
+          },
+          {
+            "id": "685626886587ac2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Kulten/Assassin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assassin"
+            }
+          },
+          {
+            "id": "a0415b7b22ed241e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boss brainstorm.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boss brainstorm"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3b90dc3679dd2ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "ded9688de2d0d18d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c8cbd1a4349c10d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7db46e66f61ffb23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c71e87a731cb26b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af1191aa03822c7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91d3f5f0c7389646",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5981405df1eb3655",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "9e7627545b8a34f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "9b238802a1e49a64",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e112177a5286d028",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a0415b7b22ed241e",
+  "lastOpenFiles": [
+    "Doctor game.md",
+    "Boss brainstorm.md",
+    "Ideer.md",
+    "Historien/Historien starter.md",
+    "Historien/Outline.md",
+    "Historien/Macho introduktion.md",
+    "Dags plan.md",
+    "Mood board.md",
+    "Gameplay design/Side events/Arcade.md",
+    "Gameplay design/Side events/Klub.md",
+    "Untitled",
+    "Gameplay design/Side events",
+    "Lore/Hoved Karakterer/Macho.md",
+    "Lore/Kulten/Assassin.md",
+    "Lore/Kulten/Kasper.md",
+    "Lore/Kulten/Kulten.md",
+    "Lore/Kulten",
+    "Lore/Hoved Karakterer",
+    "Lore/Hoved Karakterer/Wise guy.md",
+    "Lore/Hoved Karakterer/Doc.md",
+    "Klienter.md",
+    "Images/Moodboard/Pasted image 20250330182701.png",
+    "Images/Moodboard/Pasted image 20250330182518.png",
+    "Images/Moodboard/Pasted image 20250330182427.png",
+    "Images/Moodboard/Pasted image 20250330182415.png",
+    "Images/Moodboard/Pasted image 20250330182303.png",
+    "Images/Moodboard/Pasted image 20250330182214.png",
+    "Images/Moodboard/Pasted image 20250330181936.png",
+    "Images/Moodboard/Pasted image 20250330182115.png",
+    "Images/Moodboard/Pasted image 20250330182104.png",
+    "Images/Moodboard/Pasted image 20250330181949.png",
+    "Images/Moodboard",
+    "Historien",
+    "Images",
+    "Gameplay design",
+    "Audio design",
+    "Game mechanics",
+    "create a link.md",
+    "2025-03-24.md"
+  ]
+}
