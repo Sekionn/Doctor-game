@@ -1,8 +1,8 @@
 [[Historien starter]]
 
 [[Macho introduktion]]
-Efter introduktionen undersøger [[Doc]] hvilken gift som [[Macho]] er blevet stukket med, i hans introduktion.
-Der er et element i giften som stammer plante sårt som ofte er brugt i helse produkter.
+Efterfølgende undersøger [[Doc]] hvilken gift som [[Macho]] er blevet stukket med, i hans introduktion.
+Der er et element i giften som stammer fra en plantesort som ofte er brugt i helse produkter.
 
 Derfor tager de til en helsebutik der er i området. Her møder de personen [[Kasper]] (Ja den Kasper), de tror han ejer butikken (han er medlem af [[Kulten]]), han peger dem i retningen af skoven. (Motivationen bag denne beslutning er at han gerne vil have [[Doc]] kommer ned med nakken, og det er nok nemmere der hvor [[Kulten]] er i overtal).
 

@@ -1,0 +1,2 @@
+
+Der vil være et mailsystem hvor at man modtager mails fra de forskellige karakterer man møder gennem spillets forløb. F.eks. når man har mødt [[Daniel-san og Sebastian-san]] vil de begynde at sende mails fra deres rejse rundt i byen (nogle gange kan det være man får et billede hvor de er kommet lidt på afveje, såsom at de er havnet ved Eiffeltårnet).

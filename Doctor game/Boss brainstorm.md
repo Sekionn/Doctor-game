@@ -9,7 +9,7 @@
 
 - News anchor der pusher de [[Kulten |kult-ejede]] [[behandlinger]] mod virussen, gennem hans nyhedskanal.
 	- han har forskellige angreb som er baseret ud fra ting en nyhedsvært ville sige, såsom "and now sports" som gør at der kommer et helt fodboldhold løbende ind i gennem banen som giver skade hvis man bliver fanget i stimen. Eller "And now the wheather" som gør at wheather man kommer ind og kaster lyn efter spilleren.
-	- Spille banen ligner at man er inde i et tv, og et stort billede af bossen er placeret bage spillerne så det ligner at han kigger ned på dem fra et stort tv.
+	- Spille banen ligner at man er inde i et tv, og et stort billede af bossen er placeret bag spillerne så det ligner at han kigger ned på dem fra et stort tv.
 
 - Krystal healer dame (Rosa Quartz), som står for en af de [[Kulten |kult-ejede]] [[behandlinger]] mod virussen.
 	- Side ide til hende er at hun er blevet smidt ud af kulten, og prøver at skubbe [[Doc]] mod at bekæmpe kulten, ved at give ham Tarrot kort aflæsninger, der guider ham mod hans næste mål.
