@@ -18,7 +18,7 @@ Grund idéen er nu en form for minigame til at tjene penge til upgrades og lign.
 Spillet er nu en kulmination af forskellige gameplay typer såsom beat em up og platformer, som vil gøres brug af i forskellige missioner.
 Generelt vil man bevæge sig gennem byen lidt ala Persona spillene, bedre kendt som et third person, med forskellige camera setups som fixed position og free following.
 
-Spillet vil indeholde nogle areas som kan kategoriseres som "dungeons" her vil der være forskellige bossersom skal besejres uden at bruge vold mod dem, bedre kendt som at de skal kureres for deres "ondskabsfuldhed"
+Spillet vil indeholde nogle areas som kan kategoriseres som "dungeons" her vil der være forskellige bosser som skal besejres uden at bruge vold mod dem, bedre kendt som at de skal kureres for deres "ondskabsfuldhed"
 
 
 ## Prioritering af modellerings process
